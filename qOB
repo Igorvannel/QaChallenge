@@ -1,0 +1,12 @@
+[33m8e27d7f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mtemp-branch[m[33m)[m Playwright test and GitHub Actions config
+[33mbd3a3ba[m Delete .github/workflows/playwright-ci.yml
+[33m44a663e[m[33m ([m[1;32mmain[m[33m)[m Update ci.yml
+[33m2bbb866[m Update ci.yml
+[33m22e7e0a[m Create playwright-ci.yml
+[33mc0b5b7a[m Update ci.yml
+[33m84dc292[m Update ci.yml
+[33m1db187e[m update ci.yml
+[33m0dd88f8[m playwright test and GitActions Configuration
+[33m2605c2e[m Ajout des tests Playwright et configuration de GitHub Actions
+[33mf8d1054[m Ajout des tests Playwright et configuration de GitHub Actions
+[33mb0745cd[m Initial commit
